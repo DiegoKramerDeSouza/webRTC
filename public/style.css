@@ -1,0 +1,26 @@
+
+.grayscale_filter{
+	-webkit-filter: saturation(0.03);
+	filter: saturation(0.03);
+}
+.black_background{
+	background-color: black;
+}
+
+#myVideoTag{
+	border:2px solid blue;
+	border-radius:  5px;
+}
+#theirVideoTag{
+	border:2px solid red;
+	border-radius: 5px;
+}
+.mainVideo{
+	width: 50%;
+	height: 50%;
+}
+.subVideo{
+	width: 240px;
+	height: 240px;
+}
+
